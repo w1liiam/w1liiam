@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="100" src="https://raw.githubusercontent.com/navin-moorthy/navinmoorthy.me/master/public/android-chrome-512x512.png">
+  <h1>Navin Moorthy - Web Developer</h1>
+</div>
+
+
 ### Hi there, I'm [William W7](https://anuraghazra.github.io) 👋
 
 <a href="https://codesandbox.io/u/anuraghazra">
