@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="100" src="https://raw.githubusercontent.com/navin-moorthy/navinmoorthy.me/master/public/android-chrome-512x512.png">
+  <img height="100" src="https://www.directorstalk.net/wp-content/uploads/2020/11/Warpaint-London-plc.png">
   <h1>W7 - Web & RedM Devoloper</h1>
 </div>
 
