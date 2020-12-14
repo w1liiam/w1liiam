@@ -19,12 +19,11 @@
 <br />
 <br />
 
-Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India.
+Hi, I'm William I've been interested in software since the age of 9.
 
-- 🔭 I’m currently working on [renderless-components](https://github.com/timelessco/renderless-components)
-- 🌱 I’m currently learning Typescript
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 🔭 I’m currently working on [renderless-components](https://github.com/williamw7/w7_php-marketplace-script)
+- 🌱 I’m currently learning Lua
+- 💬 Ask me about anything [here](https://github.com/williamw7/williamw7/issues)
 
 **Languages and Tools:**  
 
@@ -41,6 +40,5 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
 
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
-
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of
 
