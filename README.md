@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="100" src="https://www.directorstalk.net/wp-content/uploads/2020/11/Warpaint-London-plc.png">
+  <img height="100" src="https://hizliresim.com/d3UmJS">
   <h1>W7 - Web & RedM Developer</h1>
 </div>
 
