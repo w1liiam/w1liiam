@@ -5,6 +5,8 @@
 
 <img align="right" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/octocat-anime.gif"/>
 
+<img align="right" src=""https://media1.giphy.com/media/k6pqdJM2d16FvNzc3O/source.gif"/>
+
 ### Hi there, I'm [William W7](https://github.com/williamw7) 🦾
 
 <a href="https://codesandbox.io">
