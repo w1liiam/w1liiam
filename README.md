@@ -3,6 +3,7 @@
   <h1>W7 - Web & RedM Developer</h1>
 </div>
 
+<img align="right" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/octocat-anime.gif"/>
 
 ### Hi there, I'm [William W7](https://github.com/williamw7) 🦾
 
