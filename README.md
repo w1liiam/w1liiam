@@ -1,6 +1,6 @@
 <div align="center">
   <img height="100" src="https://i.hizliresim.com/E09RSs.png">
-  <h1>W7 - Web & RedM Developer</h1>
+  <h1>W7 - Web Developer</h1>
 </div>
 
 <img align="right" src="https://media.giphy.com/media/KALGgfgDLCOevKqil5/giphy.gif"/>
