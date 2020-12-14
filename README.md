@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="100" src="https://i.hizliresim.com/EusyUc.png">
+  <img height="100" src="https://i.hizliresim.com/E09RSs.png">
   <h1>W7 - Web & RedM Developer</h1>
 </div>
 
