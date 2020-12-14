@@ -4,7 +4,7 @@
 </div>
 
 <img align="right" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/octocat-anime.gif"/>
-<img align="right" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/octocat-anime.gif"/>
+<img align="left" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/octocat-anime.gif"/>
 
 
 ### Hi there, I'm [William W7](https://github.com/williamw7) 🦾
