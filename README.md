@@ -3,7 +3,7 @@
   <h1>W7 - Web & RedM Developer</h1>
 </div>
 
-<img align="right" src="https://media.giphy.com/media/1pYAZjAlxmTLF3E25C/giphy.gif"/>
+<img align="right" src="https://media.giphy.com/media/KALGgfgDLCOevKqil5/giphy.gif"/>
 
 
 ### Hi there, I'm [William W7](https://github.com/williamw7) 🦾
