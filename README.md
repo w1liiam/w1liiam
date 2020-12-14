@@ -6,7 +6,8 @@
 <img align="right" src="https://media.giphy.com/media/KALGgfgDLCOevKqil5/giphy.gif"/>
 
 
-### Hi there, I'm [Demo İçin Tikla](http://nation.cheapplay.store/) 🦾
+
+### Merhaba  [William W7](https://github.com/williamw7) 🦾
 
 <a href="https://codesandbox.io">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
