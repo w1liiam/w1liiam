@@ -4,15 +4,15 @@
 </div>
 
 
-### Hi there, I'm [William W7](https://anuraghazra.github.io) 👋
+### Hi there, I'm [William W7](https://github.com/williamw7) 🦾
 
-<a href="https://codesandbox.io/u/anuraghazra">
+<a href="https://codesandbox.io">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
-<a href="https://twitter.com/anuraghazru">
+<a href="https://twitter.com/w7">
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://discord.gg/VK4k3Br">
+<a href="discord.gg/8e9X5S3Pyg">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
@@ -21,7 +21,7 @@
 
 Hi, I'm William I've been interested in software since the age of 9.
 
-- 🔭 I’m currently working on [renderless-components](https://github.com/williamw7/w7_php-marketplace-script)
+- 🔭 I’m currently working on [w7_php-marketplace-script](https://github.com/williamw7/w7_php-marketplace-script)
 - 🌱 I’m currently learning Lua
 - 💬 Ask me about anything [here](https://github.com/williamw7/williamw7/issues)
 
