@@ -3,7 +3,7 @@
   <h1>W7 - Web Developer</h1>
 </div>
 
-<img align="right" src="https://media.giphy.com/media/KALGgfgDLCOevKqil5/giphy.gif"/>
+#<img align="right" src="https://media.giphy.com/media/KALGgfgDLCOevKqil5/giphy.gif"/>
 
 
 
