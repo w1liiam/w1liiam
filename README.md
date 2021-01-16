@@ -6,6 +6,10 @@
 #
 
 
+  ### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="william.m Spotify Playing" width="350" />(https://open.spotify.com/user/af45wrf961auvjkftmfo6502l)
+
 
 ### Hi There, I'm [William W7](https://github.com/williamw7) 🦾
 
@@ -64,9 +68,7 @@ Hi, I'm William I've been interested in software since the age of 9.
   ![mongoDB](https://img.shields.io/badge/MongoDB-4DB33D?logo=MongoDB&logoColor=white&style=flat)
   ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=Amazon%20AWS&logoColor=white&style=flat)
   
-  ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="william.m Spotify Playing" width="350" />](https://open.spotify.com/user/af45wrf961auvjkftmfo6502l)
 
 
 <!--- 
