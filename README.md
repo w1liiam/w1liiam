@@ -28,6 +28,10 @@ Hi, I'm William I've been interested in software since the age of 9.
 - 🌱 I’m currently learning Lua
 - 💬 Ask me about anything [here](https://github.com/williamw7/williamw7/issues)
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="william.m Spotify Playing" width="350" />](https://open.spotify.com/user/af45wrf961auvjkftmfo6502l)
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
