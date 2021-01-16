@@ -6,10 +6,9 @@
 #
 
 
-  ### Spotify Playing 🎧
+### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="william.m Spotify Playing" width="350" />
-(https://open.spotify.com/user/af45wrf961auvjkftmfo6502l)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="tolgaand Spotify Playing" width="350" />](https://open.spotify.com/user/af45wrf961auvjkftmfo6502l)
 
 
 ### Hi There, I'm [William W7](https://github.com/williamw7) 🦾
