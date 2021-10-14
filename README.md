@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>w1l.iam & W7 - Web Developer ig w1l.iam</h1>
+  <h1>w1l.iam & W7 - Web Developer  </h1>
 </div>
 
 #
