@@ -1,17 +1,16 @@
 <div align="center">
   
-  <h1>W7 - Web Developer</h1>
+  <h1>w1l.iam & W7 - Web Developer ig w1l.iam</h1>
 </div>
 
 #
 
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="tolgaand Spotify Playing" width="350" />](https://open.spotify.com/user/af45wrf961auvjkftmfo6502l)
+ 
 
 
 ### Hi There, I'm [William W7](https://github.com/williamw7) 🦾
+
 
 <a href="https://codesandbox.io">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
