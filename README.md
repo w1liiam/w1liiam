@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>w1l.iam & W7 - Backend web developer & RedM,FiveM Development </h1>
+  <h1>w1l.iam & W7 - Back- End Developer & RedM,FiveM Development - </h1>
 </div>
 
 #
@@ -9,7 +9,7 @@
  
 
 
-### Hi There, I'm [[William W7] (https://github.com/williamw7) 🦾
+### Hi There, I'm Umut  [[William W7] (https://github.com/williamw7) 🦾
 ### 
 <a href="https://codesandbox.io">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
