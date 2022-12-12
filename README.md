@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>w1l.iam & W7 - Back- End Developer & RedM,FiveM Development - </h1>
+  <h1>w1l.iam - Back- End Developer & RedM,FiveM Development - </h1>
 </div>
 
 #
