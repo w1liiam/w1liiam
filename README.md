@@ -28,7 +28,7 @@ Hi, I'm William I've been interested in software since the age of 9.
 
 - 🔭 I’m currently working on [Elo Reach Boosting Service ](https://eloreach.com/)
 - 🌱 I’m currently learning Python
-- 💬 Ask me about anything [here](https://github.com/williamw7/williamw7/issues)
+- 💬 Ask me about anything [here](https://github.com/w1liiam/w1liiam/issues)
 
 
 
