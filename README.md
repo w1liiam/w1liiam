@@ -9,7 +9,7 @@
  
 
 
-### Hi There, I'm Umut Gumustepe  [ (https://github.com/w1liiam) 🦾
+### Hi There, I'm Umut [w1]  [ (https://github.com/w1liiam) 🦾
 ### 
 <a href="https://codesandbox.io">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
